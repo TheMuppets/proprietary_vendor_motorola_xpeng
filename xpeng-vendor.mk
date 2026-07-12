@@ -3114,8 +3114,5 @@ PRODUCT_PACKAGES += \
     com.motorola.androidx.camera.extensions \
     android.hardware.biometrics.fingerprint@2.1-service-ets \
     android.hardware.biometrics.fingerprint@2.1-service-fpc \
-    egis_ident \
-    fpc_ident \
-    goodix_ident \
     motorola.hardware.camera.desktop@2.0-service \
     motsettings
