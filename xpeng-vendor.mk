@@ -31,8 +31,6 @@ PRODUCT_COPY_FILES += \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s20209.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s20209.pb \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s20210.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s20210.pb \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s20402.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s20402.pb \
-    vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s20402gid1_3d_4e4c.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s20402gid1_3d_4e4c.pb \
-    vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s20402spn_3d_tele2_20_nl.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s20402spn_3d_tele2_20_nl.pb \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s20403imsi_3d_20403.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s20403imsi_3d_20403.pb \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s20404.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s20404.pb \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s204043spn_3d_avantel_20_roaming_20_.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s204043spn_3d_avantel_20_roaming_20_.pb \
@@ -50,18 +48,17 @@ PRODUCT_COPY_FILES += \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s20408imsi_3d_204080950.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s20408imsi_3d_204080950.pb \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s20412.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s20412.pb \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s20416.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s20416.pb \
+    vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s20416gid1_3d_2f.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s20416gid1_3d_2f.pb \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s20416gid1_3d_4e4c.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s20416gid1_3d_4e4c.pb \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s20416gid1_3d_5f.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s20416gid1_3d_5f.pb \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s20416gid1_3d_8f.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s20416gid1_3d_8f.pb \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s20416gid1_3d_ff.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s20416gid1_3d_ff.pb \
-    vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s20416spn_3d_ben.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s20416spn_3d_ben.pb \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s20416spn_3d_ben_20_nl.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s20416spn_3d_ben_20_nl.pb \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s20416spn_3d_simpel.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s20416spn_3d_simpel.pb \
-    vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s20416spn_3d_t_2d_mobile_20__20_nl.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s20416spn_3d_t_2d_mobile_20__20_nl.pb \
+    vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s20416spn_3d_simpel_20_nl.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s20416spn_3d_simpel_20_nl.pb \
+    vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s20416spn_3d_t_2d_mobile_20_nl.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s20416spn_3d_t_2d_mobile_20_nl.pb \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s20416spn_3d_tele2_20_nl.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s20416spn_3d_tele2_20_nl.pb \
-    vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s20420.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s20420.pb \
-    vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s20420gid1_3d_ff.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s20420gid1_3d_ff.pb \
-    vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s20420spn_3d_t_2d_mobile_20__20_nl.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s20420spn_3d_t_2d_mobile_20__20_nl.pb \
+    vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s20417.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s20417.pb \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s20433.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s20433.pb \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s20465gid1_3d_50.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s20465gid1_3d_50.pb \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s20601.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s20601.pb \
@@ -78,22 +75,22 @@ PRODUCT_COPY_FILES += \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s20610.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s20610.pb \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s20610gid1_3d_bb00.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s20610gid1_3d_bb00.pb \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s20610spn_3d_be_2d_transatel.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s20610spn_3d_be_2d_transatel.pb \
-    vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s20610spn_3d_orange_20_b.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s20610spn_3d_orange_20_b.pb \
+    vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s20612.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s20612.pb \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s20620.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s20620.pb \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s20620gid1_3d_28.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s20620gid1_3d_28.pb \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s20628.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s20628.pb \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s20630.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s20630.pb \
-    vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s20800spn_3d_orange_20_f.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s20800spn_3d_orange_20_f.pb \
+    vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s20800.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s20800.pb \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s20801.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s20801.pb \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s20801gid1_3d_33.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s20801gid1_3d_33.pb \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s20801gid1_3d_4e524a31.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s20801gid1_3d_4e524a31.pb \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s20801gid1_3d_52.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s20801gid1_3d_52.pb \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s20801imsi_3d_208011511.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s20801imsi_3d_208011511.pb \
-    vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s20801spn_3d_orange_20_f.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s20801spn_3d_orange_20_f.pb \
+    vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s20801imsi_3d_20801156.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s20801imsi_3d_20801156.pb \
+    vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s20801imsi_3d_20801157.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s20801imsi_3d_20801157.pb \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s20801spn_3d_rakuten.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s20801spn_3d_rakuten.pb \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s20801spn_3d_virgin.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s20801spn_3d_virgin.pb \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s20802.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s20802.pb \
-    vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s20802spn_3d_orange_20_f.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s20802spn_3d_orange_20_f.pb \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s20809.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s20809.pb \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s208090.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s208090.pb \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s208090gid1_3d_11ffffffffffffff.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s208090gid1_3d_11ffffffffffffff.pb \
@@ -104,7 +101,18 @@ PRODUCT_COPY_FILES += \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s20809gid1_3d_6532.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s20809gid1_3d_6532.pb \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s20809gid1_3d_6538.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s20809gid1_3d_6538.pb \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s20809gid1_3d_6630.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s20809gid1_3d_6630.pb \
+    vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s20809gid1_3d_6636.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s20809gid1_3d_6636.pb \
+    vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s20809gid1_3d_6638.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s20809gid1_3d_6638.pb \
+    vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s20809gid1_3d_6732.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s20809gid1_3d_6732.pb \
+    vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s20809gid1_3d_6736.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s20809gid1_3d_6736.pb \
+    vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s20809gid1_3d_6738.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s20809gid1_3d_6738.pb \
+    vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s20809gid1_3d_6830.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s20809gid1_3d_6830.pb \
+    vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s20809gid1_3d_6836.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s20809gid1_3d_6836.pb \
+    vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s20809gid1_3d_6838.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s20809gid1_3d_6838.pb \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s20809gid1_3d_7330.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s20809gid1_3d_7330.pb \
+    vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s20809gid1_3d_7530.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s20809gid1_3d_7530.pb \
+    vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s20809gid1_3d_8030.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s20809gid1_3d_8030.pb \
+    vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s20809gid1_3d_9030.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s20809gid1_3d_9030.pb \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s20809imsi_3d_208090021.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s20809imsi_3d_208090021.pb \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s20809imsi_3d_208090022.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s20809imsi_3d_208090022.pb \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s20809imsi_3d_208090036.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s20809imsi_3d_208090036.pb \
@@ -139,7 +147,10 @@ PRODUCT_COPY_FILES += \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s20826gid1_3d_4e524a31.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s20826gid1_3d_4e524a31.pb \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s20827.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s20827.pb \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s20827spn_3d_coriolis.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s20827spn_3d_coriolis.pb \
+    vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s20828.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s20828.pb \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s20835.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s20835.pb \
+    vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s20838.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s20838.pb \
+    vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s20838spn_3d_lebara.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s20838spn_3d_lebara.pb \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s20888.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s20888.pb \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s21401.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s21401.pb \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s21402.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s21402.pb \
@@ -153,15 +164,24 @@ PRODUCT_COPY_FILES += \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s21403spn_3d_masmovil.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s21403spn_3d_masmovil.pb \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s21403spn_3d_mobil_20_r.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s21403spn_3d_mobil_20_r.pb \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s21403spn_3d_mobilr.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s21403spn_3d_mobilr.pb \
-    vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s21403spn_3d_orange.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s21403spn_3d_orange.pb \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s21403spn_3d_racc.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s21403spn_3d_racc.pb \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s21403spn_3d_simyo.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s21403spn_3d_simyo.pb \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s21403spn_3d_virgin_20_telco.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s21403spn_3d_virgin_20_telco.pb \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s21404.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s21404.pb \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s21404imsi_3d_2140423.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s21404imsi_3d_2140423.pb \
-    vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s21404imsi_3d_2140423xxxxxxxx.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s21404imsi_3d_2140423xxxxxxxx.pb \
-    vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s21404imsi_3d_2140426xxxxxxxx.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s21404imsi_3d_2140426xxxxxxxx.pb \
+    vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s21404imsi_3d_2140426.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s21404imsi_3d_2140426.pb \
+    vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s21404spn_3d_cablemovil.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s21404spn_3d_cablemovil.pb \
+    vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s21404spn_3d_guuk.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s21404spn_3d_guuk.pb \
+    vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s21404spn_3d_lebara.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s21404spn_3d_lebara.pb \
+    vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s21404spn_3d_llamaya.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s21404spn_3d_llamaya.pb \
+    vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s21404spn_3d_lycamobile.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s21404spn_3d_lycamobile.pb \
+    vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s21404spn_3d_masmovil.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s21404spn_3d_masmovil.pb \
+    vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s21404spn_3d_pepephone.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s21404spn_3d_pepephone.pb \
+    vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s21404spn_3d_sweno.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s21404spn_3d_sweno.pb \
+    vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s21404spn_3d_yoigo.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s21404spn_3d_yoigo.pb \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s21405.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s21405.pb \
+    vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s21405gid1_3d_44474553.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s21405gid1_3d_44474553.pb \
+    vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s21405gid1_3d_44474954.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s21405gid1_3d_44474954.pb \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s21405imsi_3d_214050104.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s21405imsi_3d_214050104.pb \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s21405spn_3d_pepephone.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s21405spn_3d_pepephone.pb \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s21405spn_3d_telecable.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s21405spn_3d_telecable.pb \
@@ -170,6 +190,7 @@ PRODUCT_COPY_FILES += \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s21406gid1_3d_214050111.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s21406gid1_3d_214050111.pb \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s21406spn_3d_eroski_20_movil.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s21406spn_3d_eroski_20_movil.pb \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s21406spn_3d_euskaltel.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s21406spn_3d_euskaltel.pb \
+    vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s21406spn_3d_finetwork.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s21406spn_3d_finetwork.pb \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s21406spn_3d_hits.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s21406spn_3d_hits.pb \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s21406spn_3d_lebara.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s21406spn_3d_lebara.pb \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s21406spn_3d_lowi.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s21406spn_3d_lowi.pb \
@@ -180,6 +201,7 @@ PRODUCT_COPY_FILES += \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s21407imsi_3d_2140796692xxxxx.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s21407imsi_3d_2140796692xxxxx.pb \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s21407spn_3d_jazztel.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s21407spn_3d_jazztel.pb \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s21408.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s21408.pb \
+    vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s21408spn_3d_euskaltel.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s21408spn_3d_euskaltel.pb \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s21408spn_3d_mobil_20_r.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s21408spn_3d_mobil_20_r.pb \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s21408spn_3d_mobilr.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s21408spn_3d_mobilr.pb \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s21409.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s21409.pb \
@@ -190,12 +212,14 @@ PRODUCT_COPY_FILES += \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s21414.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s21414.pb \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s21415.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s21415.pb \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s21416.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s21416.pb \
+    vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s21416gid1_3d_16.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s21416gid1_3d_16.pb \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s21416spn_3d_telecable.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s21416spn_3d_telecable.pb \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s21417.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s21417.pb \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s21417spn_3d_mobil_20_r.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s21417spn_3d_mobil_20_r.pb \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s21417spn_3d_mobilr.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s21417spn_3d_mobilr.pb \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s21418.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s21418.pb \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s21419.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s21419.pb \
+    vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s21419spn_3d_simyo.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s21419spn_3d_simyo.pb \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s21420.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s21420.pb \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s21421.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s21421.pb \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s21421spn_3d_jazztel.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s21421spn_3d_jazztel.pb \
@@ -203,6 +227,7 @@ PRODUCT_COPY_FILES += \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s21427.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s21427.pb \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s21432spn_3d_tuenti.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s21432spn_3d_tuenti.pb \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s21434.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s21434.pb \
+    vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s21438.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s21438.pb \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s21601.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s21601.pb \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s21630.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s21630.pb \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s21630spn_3d_t_2d_mobile_20_h.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s21630spn_3d_t_2d_mobile_20_h.pb \
@@ -220,12 +245,28 @@ PRODUCT_COPY_FILES += \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s21901gid1_3d_11.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s21901gid1_3d_11.pb \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s21901gid1_3d_12.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s21901gid1_3d_12.pb \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s21901gid1_3d_99.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s21901gid1_3d_99.pb \
+    vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s21901gid1_3d_ff.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s21901gid1_3d_ff.pb \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s21901spn_3d_bonbon.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s21901spn_3d_bonbon.pb \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s21901spn_3d_ht_20_hr.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s21901spn_3d_ht_20_hr.pb \
+    vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s21901spn_3d_ht_2d_campus.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s21901spn_3d_ht_2d_campus.pb \
+    vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s21901spn_3d_r_26_d_20_network.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s21901spn_3d_r_26_d_20_network.pb \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s21901spn_3d_t_2d_mobile_20_hr.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s21901spn_3d_t_2d_mobile_20_hr.pb \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s21902.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s21902.pb \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s21910.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s21910.pb \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s21920.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s21920.pb \
+    vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s21920gid1_3d_01.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s21920gid1_3d_01.pb \
+    vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s21920gid1_3d_02.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s21920gid1_3d_02.pb \
+    vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s21920gid1_3d_03.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s21920gid1_3d_03.pb \
+    vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s21920gid1_3d_10.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s21920gid1_3d_10.pb \
+    vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s21920gid1_3d_11.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s21920gid1_3d_11.pb \
+    vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s21920gid1_3d_12.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s21920gid1_3d_12.pb \
+    vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s21920gid1_3d_99.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s21920gid1_3d_99.pb \
+    vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s21920gid1_3d_ff.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s21920gid1_3d_ff.pb \
+    vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s21920spn_3d_bonbon.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s21920spn_3d_bonbon.pb \
+    vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s21920spn_3d_ht_20_hr.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s21920spn_3d_ht_20_hr.pb \
+    vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s21920spn_3d_ht_2d_campus.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s21920spn_3d_ht_2d_campus.pb \
+    vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s21920spn_3d_r_26_d_20_network.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s21920spn_3d_r_26_d_20_network.pb \
+    vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s21920spn_3d_t_2d_mobile_20_hr.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s21920spn_3d_t_2d_mobile_20_hr.pb \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s22001.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s22001.pb \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s22002.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s22002.pb \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s22003.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s22003.pb \
@@ -251,7 +292,6 @@ PRODUCT_COPY_FILES += \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s22210spn_3d_ho_2e_.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s22210spn_3d_ho_2e_.pb \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s22210spn_3d_postemobile.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s22210spn_3d_postemobile.pb \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s22233.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s22233.pb \
-    vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s22233spn_3d_postemobile.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s22233spn_3d_postemobile.pb \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s22235.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s22235.pb \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s22236.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s22236.pb \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s22249.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s22249.pb \
@@ -261,6 +301,7 @@ PRODUCT_COPY_FILES += \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s22254.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s22254.pb \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s22254spn_3d_plintron.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s22254spn_3d_plintron.pb \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s22254spn_3d_wingsitalia.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s22254spn_3d_wingsitalia.pb \
+    vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s22256.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s22256.pb \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s22288.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s22288.pb \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s22288gid1_3d_0000000099.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s22288gid1_3d_0000000099.pb \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s22299.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s22299.pb \
@@ -274,6 +315,8 @@ PRODUCT_COPY_FILES += \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s22603spn_3d_mtv_20_mobile.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s22603spn_3d_mtv_20_mobile.pb \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s22603spn_3d_telekom_2e_ro.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s22603spn_3d_telekom_2e_ro.pb \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s22605.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s22605.pb \
+    vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s22605gid1_3d_44474553.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s22605gid1_3d_44474553.pb \
+    vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s22605gid1_3d_44474954.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s22605gid1_3d_44474954.pb \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s22606.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s22606.pb \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s22606spn_3d_cosmote.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s22606spn_3d_cosmote.pb \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s22606spn_3d_frog.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s22606spn_3d_frog.pb \
@@ -289,6 +332,7 @@ PRODUCT_COPY_FILES += \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s22803gid1_3d_bb00.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s22803gid1_3d_bb00.pb \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s22803spn_3d_ch_2d_transatel.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s22803spn_3d_ch_2d_transatel.pb \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s22812.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s22812.pb \
+    vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s22871.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s22871.pb \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s23001.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s23001.pb \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s23001spn_3d_innogy.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s23001spn_3d_innogy.pb \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s23001spn_3d_kaktus.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s23001spn_3d_kaktus.pb \
@@ -301,7 +345,6 @@ PRODUCT_COPY_FILES += \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s23003spn_3d_vodafone_20_cz.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s23003spn_3d_vodafone_20_cz.pb \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s23099.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s23099.pb \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s23099imsi_3d_x.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s23099imsi_3d_x.pb \
-    vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s23101.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s23101.pb \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s23101spn_3d_orange.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s23101spn_3d_orange.pb \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s23102.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s23102.pb \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s23102spn_3d_juro_2e_sk.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s23102spn_3d_juro_2e_sk.pb \
@@ -316,23 +359,37 @@ PRODUCT_COPY_FILES += \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s23203gid1_3d_01.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s23203gid1_3d_01.pb \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s23203gid1_3d_31.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s23203gid1_3d_31.pb \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s23203gid1_3d_32.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s23203gid1_3d_32.pb \
+    vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s23203gid1_3d_70.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s23203gid1_3d_70.pb \
+    vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s23203gid1_3d_72.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s23203gid1_3d_72.pb \
+    vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s23203gid1_3d_74.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s23203gid1_3d_74.pb \
+    vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s23203gid1_3d_75.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s23203gid1_3d_75.pb \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s23203gid1_3d_c5.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s23203gid1_3d_c5.pb \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s23205.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s23205.pb \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s23207.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s23207.pb \
-    vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s23207gid1_3d_.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s23207gid1_3d_.pb \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s23207gid1_3d_07.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s23207gid1_3d_07.pb \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s23207gid1_3d_30.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s23207gid1_3d_30.pb \
+    vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s23207gid1_3d_70.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s23207gid1_3d_70.pb \
+    vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s23207gid1_3d_72.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s23207gid1_3d_72.pb \
+    vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s23207gid1_3d_74.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s23207gid1_3d_74.pb \
+    vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s23207gid1_3d_75.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s23207gid1_3d_75.pb \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s23207gid1_3d_ff.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s23207gid1_3d_ff.pb \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s23207imsi_3d_23207718xxxxxxx.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s23207imsi_3d_23207718xxxxxxx.pb \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s23207imsi_3d_2320776xxxxxxxx.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s23207imsi_3d_2320776xxxxxxxx.pb \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s23207imsi_3d_23207799xxxxxxx.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s23207imsi_3d_23207799xxxxxxx.pb \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s23207imsi_3d_999999.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s23207imsi_3d_999999.pb \
+    vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s23209.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s23209.pb \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s23210.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s23210.pb \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s23210gid1_3d_0306.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s23210gid1_3d_0306.pb \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s23211.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s23211.pb \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s23212.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s23212.pb \
+    vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s23214.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s23214.pb \
+    vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s23217.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s23217.pb \
+    vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s23217gid1_3d_0042.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s23217gid1_3d_0042.pb \
+    vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s23217gid1_3d_0044.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s23217gid1_3d_0044.pb \
+    vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s23217gid1_3d_0x0042.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s23217gid1_3d_0x0042.pb \
+    vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s23217gid1_3d_0x0044.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s23217gid1_3d_0x0044.pb \
+    vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s23228.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s23228.pb \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s23401.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s23401.pb \
-    vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s23402.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s23402.pb \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s23403.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s23403.pb \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s23408gid1_3d_b2.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s23408gid1_3d_b2.pb \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s23408gid1_3d_b2ff.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s23408gid1_3d_b2ff.pb \
@@ -347,11 +404,14 @@ PRODUCT_COPY_FILES += \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s23410gid1_3d_67.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s23410gid1_3d_67.pb \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s23410gid1_3d_85.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s23410gid1_3d_85.pb \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s23410gid1_3d_99.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s23410gid1_3d_99.pb \
+    vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s23410imsi_3d_234104979.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s23410imsi_3d_234104979.pb \
+    vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s23410imsi_3d_234106309.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s23410imsi_3d_234106309.pb \
+    vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s23410imsi_3d_234106459.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s23410imsi_3d_234106459.pb \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s23410spn_3d_giffgaff.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s23410spn_3d_giffgaff.pb \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s23410spn_3d_jump.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s23410spn_3d_jump.pb \
-    vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s23411.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s23411.pb \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s23415.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s23415.pb \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s23415gid1_3d_b3.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s23415gid1_3d_b3.pb \
+    vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s23415gid1_3d_c1.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s23415gid1_3d_c1.pb \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s23415spn_3d_asda_20_mobile.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s23415spn_3d_asda_20_mobile.pb \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s23415spn_3d_lebara.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s23415spn_3d_lebara.pb \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s23415spn_3d_sainsbury_27_s.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s23415spn_3d_sainsbury_27_s.pb \
@@ -377,7 +437,6 @@ PRODUCT_COPY_FILES += \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s23430gid1_3d_c3ff.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s23430gid1_3d_c3ff.pb \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s23430gid1_3d_ee.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s23430gid1_3d_ee.pb \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s23430gid1_3d_eeff.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s23430gid1_3d_eeff.pb \
-    vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s23430imsi_3d_2343041.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s23430imsi_3d_2343041.pb \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s23431.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s23431.pb \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s23432.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s23432.pb \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s23433.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s23433.pb \
@@ -390,13 +449,18 @@ PRODUCT_COPY_FILES += \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s23438gid1_3d_2800000000000000.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s23438gid1_3d_2800000000000000.pb \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s23439.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s23439.pb \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s23439spn_3d_jump.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s23439spn_3d_jump.pb \
+    vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s23440.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s23440.pb \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s23450.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s23450.pb \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s23450imsi_3d_234500008.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s23450imsi_3d_234500008.pb \
+    vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s23453.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s23453.pb \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s23455.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s23455.pb \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s23457.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s23457.pb \
+    vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s23457gid1_3d_0c.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s23457gid1_3d_0c.pb \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s23458.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s23458.pb \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s23476gid1_3d_c1.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s23476gid1_3d_c1.pb \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s23486.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s23486.pb \
+    vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s23487.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s23487.pb \
+    vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s23487spn_3d_lebara.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s23487spn_3d_lebara.pb \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s23491.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s23491.pb \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s23491spn_3d_vodafone_20_uk.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s23491spn_3d_vodafone_20_uk.pb \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s23494.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s23494.pb \
@@ -421,10 +485,22 @@ PRODUCT_COPY_FILES += \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s24004.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s24004.pb \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s24005spn_3d_telia.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s24005spn_3d_telia.pb \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s24006.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s24006.pb \
-    vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s24006imsi_3d_24006.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s24006imsi_3d_24006.pb \
-    vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s24006spn_3d_vimla.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s24006spn_3d_vimla.pb \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s24007.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s24007.pb \
+    vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s24007gid1_3d_0040.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s24007gid1_3d_0040.pb \
+    vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s24007gid1_3d_0041.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s24007gid1_3d_0041.pb \
+    vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s24007gid1_3d_0042.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s24007gid1_3d_0042.pb \
+    vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s24007gid1_3d_0044.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s24007gid1_3d_0044.pb \
+    vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s24007gid1_3d_0048.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s24007gid1_3d_0048.pb \
+    vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s24007gid1_3d_0050.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s24007gid1_3d_0050.pb \
+    vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s24007gid1_3d_0052.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s24007gid1_3d_0052.pb \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s24007gid1_3d_0c.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s24007gid1_3d_0c.pb \
+    vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s24007gid1_3d_0x0040.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s24007gid1_3d_0x0040.pb \
+    vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s24007gid1_3d_0x0041.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s24007gid1_3d_0x0041.pb \
+    vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s24007gid1_3d_0x0042.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s24007gid1_3d_0x0042.pb \
+    vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s24007gid1_3d_0x0044.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s24007gid1_3d_0x0044.pb \
+    vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s24007gid1_3d_0x0048.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s24007gid1_3d_0x0048.pb \
+    vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s24007gid1_3d_0x0050.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s24007gid1_3d_0x0050.pb \
+    vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s24007gid1_3d_0x0052.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s24007gid1_3d_0x0052.pb \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s24007imsi_3d_24007561.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s24007imsi_3d_24007561.pb \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s24007imsi_3d_240075610.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s24007imsi_3d_240075610.pb \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s24007imsi_3d_240075614.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s24007imsi_3d_240075614.pb \
@@ -436,34 +512,47 @@ PRODUCT_COPY_FILES += \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s24024.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s24024.pb \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s24024spn_3d_tele2.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s24024spn_3d_tele2.pb \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s24042gid1_3d_c5.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s24042gid1_3d_c5.pb \
+    vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s24049.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s24049.pb \
+    vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s24050.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s24050.pb \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s24067.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s24067.pb \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s24201.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s24201.pb \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s24202.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s24202.pb \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s24202imsi_3d_2420256.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s24202imsi_3d_2420256.pb \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s24204.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s24204.pb \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s24205.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s24205.pb \
+    vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s24208.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s24208.pb \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s24209.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s24209.pb \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s24212.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s24212.pb \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s24214.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s24214.pb \
+    vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s24215.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s24215.pb \
+    vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s24215gid1_3d_0e.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s24215gid1_3d_0e.pb \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s24403.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s24403.pb \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s24404.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s24404.pb \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s24405.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s24405.pb \
+    vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s24405imsi_3d_2440541.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s24405imsi_3d_2440541.pb \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s24410.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s24410.pb \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s24412.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s24412.pb \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s24413.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s24413.pb \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s24421.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s24421.pb \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s24491.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s24491.pb \
+    vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s24492.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s24492.pb \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s24601.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s24601.pb \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s24602.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s24602.pb \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s24603.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s24603.pb \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s246081.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s246081.pb \
+    vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s246082.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s246082.pb \
+    vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s246083.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s246083.pb \
+    vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s246084.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s246084.pb \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s24681.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s24681.pb \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s24701.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s24701.pb \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s24702.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s24702.pb \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s24705.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s24705.pb \
+    vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s24710.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s24710.pb \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s24801.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s24801.pb \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s24801imsi_3d_248010x2.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s24801imsi_3d_248010x2.pb \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s24801imsi_3d_248010x3.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s24801imsi_3d_248010x3.pb \
+    vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s24801spn_3d_diil.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s24801spn_3d_diil.pb \
+    vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s24801spn_3d_telia.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s24801spn_3d_telia.pb \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s24802.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s24802.pb \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s24803imsi_3d_24803000x.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s24803imsi_3d_24803000x.pb \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s24803imsi_3d_24803005x.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s24803imsi_3d_24803005x.pb \
@@ -498,6 +587,7 @@ PRODUCT_COPY_FILES += \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s25701.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s25701.pb \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s25702.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s25702.pb \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s25901.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s25901.pb \
+    vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s25902.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s25902.pb \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s25905.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s25905.pb \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s26001.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s26001.pb \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s26002.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s26002.pb \
@@ -513,12 +603,28 @@ PRODUCT_COPY_FILES += \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s26002spn_3d_heyah.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s26002spn_3d_heyah.pb \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s26002spn_3d_t_2d_mobile_2e_pl.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s26002spn_3d_t_2d_mobile_2e_pl.pb \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s26002spn_3d_t_2d_mobile_2e_pl_20_q.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s26002spn_3d_t_2d_mobile_2e_pl_20_q.pb \
+    vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s26002spn_3d_tu_20_biedronka.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s26002spn_3d_tu_20_biedronka.pb \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s26003.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s26003.pb \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s26003spn_3d_nju.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s26003spn_3d_nju.pb \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s26003spn_3d_orange.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s26003spn_3d_orange.pb \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s26005.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s26005.pb \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s26006.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s26006.pb \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s26006gid1_3d_414c54414e.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s26006gid1_3d_414c54414e.pb \
+    vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s26006spn_3d_canal_2b_.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s26006spn_3d_canal_2b_.pb \
+    vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s26006spn_3d_fakt_20_mobile.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s26006spn_3d_fakt_20_mobile.pb \
+    vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s26006spn_3d_inea.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s26006spn_3d_inea.pb \
+    vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s26006spn_3d_izzi.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s26006spn_3d_izzi.pb \
+    vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s26006spn_3d_maxitel.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s26006spn_3d_maxitel.pb \
+    vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s26006spn_3d_metro_20_mobile.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s26006spn_3d_metro_20_mobile.pb \
+    vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s26006spn_3d_mobile_20_vikings.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s26006spn_3d_mobile_20_vikings.pb \
+    vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s26006spn_3d_multimedia.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s26006spn_3d_multimedia.pb \
+    vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s26006spn_3d_nom.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s26006spn_3d_nom.pb \
+    vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s26006spn_3d_redbull_20_mobile.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s26006spn_3d_redbull_20_mobile.pb \
+    vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s26006spn_3d_tele25.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s26006spn_3d_tele25.pb \
+    vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s26006spn_3d_toya.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s26006spn_3d_toya.pb \
+    vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s26006spn_3d_upc_20_pl.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s26006spn_3d_upc_20_pl.pb \
+    vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s26006spn_3d_vectra.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s26006spn_3d_vectra.pb \
+    vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s26006spn_3d_virgin_20_mobile.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s26006spn_3d_virgin_20_mobile.pb \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s26012.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s26012.pb \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s26015.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s26015.pb \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s26017.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s26017.pb \
@@ -539,6 +645,7 @@ PRODUCT_COPY_FILES += \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s26201spn_3d_congstar_2e_de.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s26201spn_3d_congstar_2e_de.pb \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s26201spn_3d_debitel.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s26201spn_3d_debitel.pb \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s26201spn_3d_privat.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s26201spn_3d_privat.pb \
+    vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s26201spn_3d_t_2d_campus.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s26201spn_3d_t_2d_campus.pb \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s26201spn_3d_t_2d_mobile_20_d.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s26201spn_3d_t_2d_mobile_20_d.pb \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s26201spn_3d_telekom_2e_de.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s26201spn_3d_telekom_2e_de.pb \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s26202.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s26202.pb \
@@ -588,6 +695,8 @@ PRODUCT_COPY_FILES += \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s26202imsi_3d_262029.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s26202imsi_3d_262029.pb \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s26202spn_3d_1_26_1.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s26202spn_3d_1_26_1.pb \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s26203.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s26203.pb \
+    vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s26203imsi_3d_26203293x.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s26203imsi_3d_26203293x.pb \
+    vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s26203imsi_3d_26203330x.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s26203imsi_3d_26203330x.pb \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s26204.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s26204.pb \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s26205.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s26205.pb \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s26206.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s26206.pb \
@@ -595,6 +704,7 @@ PRODUCT_COPY_FILES += \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s26206gid1_3d_02.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s26206gid1_3d_02.pb \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s26206gid1_3d_03.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s26206gid1_3d_03.pb \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s26206gid1_3d_04.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s26206gid1_3d_04.pb \
+    vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s26206gid1_3d_44.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s26206gid1_3d_44.pb \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s26206gid1_3d_4b.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s26206gid1_3d_4b.pb \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s26206gid1_3d_99.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s26206gid1_3d_99.pb \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s26206spn_3d_business.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s26206spn_3d_business.pb \
@@ -603,16 +713,12 @@ PRODUCT_COPY_FILES += \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s26206spn_3d_t_2d_mobile_20_d.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s26206spn_3d_t_2d_mobile_20_d.pb \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s26206spn_3d_telekom_2e_de.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s26206spn_3d_telekom_2e_de.pb \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s26207.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s26207.pb \
-    vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s26207gid1_3d_000000ffffffffffffffffffffffffffffffffff.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s26207gid1_3d_000000ffffffffffffffffffffffffffffffffff.pb \
-    vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s26207gid1_3d_000500ffffffffffffffffffffffffffffffffff.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s26207gid1_3d_000500ffffffffffffffffffffffffffffffffff.pb \
-    vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s26207gid1_3d_010251ffffffffffffffffffffffffffffffffff.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s26207gid1_3d_010251ffffffffffffffffffffffffffffffffff.pb \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s26207gid1_3d_010301ffffffffffffffffffffffffffffffffff.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s26207gid1_3d_010301ffffffffffffffffffffffffffffffffff.pb \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s26207gid1_3d_010901ffffffffffffffffffffffffffffffffff.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s26207gid1_3d_010901ffffffffffffffffffffffffffffffffff.pb \
-    vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s26207gid1_3d_020302ffffffffffffffffffffffffffffffffff.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s26207gid1_3d_020302ffffffffffffffffffffffffffffffffff.pb \
-    vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s26207gid1_3d_020902ffffffffffffffffffffffffffffffffff.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s26207gid1_3d_020902ffffffffffffffffffffffffffffffffff.pb \
-    vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s26207imsi_3d_2620739xxxxxxxx.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s26207imsi_3d_2620739xxxxxxxx.pb \
+    vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s26207gid1_3d_118004.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s26207gid1_3d_118004.pb \
+    vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s26207gid1_3d_118006.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s26207gid1_3d_118006.pb \
+    vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s26207imsi_3d_26207414x.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s26207imsi_3d_26207414x.pb \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s26207imsi_3d_2620749.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s26207imsi_3d_2620749.pb \
-    vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s26207imsi_3d_2620749xxxxxxxx.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s26207imsi_3d_2620749xxxxxxxx.pb \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s26207imsi_3d_26207500.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s26207imsi_3d_26207500.pb \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s26207imsi_3d_26207515.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s26207imsi_3d_26207515.pb \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s26207imsi_3d_26207520.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s26207imsi_3d_26207520.pb \
@@ -622,16 +728,26 @@ PRODUCT_COPY_FILES += \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s26210.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s26210.pb \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s26211.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s26211.pb \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s26212.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s26212.pb \
+    vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s26214.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s26214.pb \
+    vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s26221.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s26221.pb \
+    vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s26223.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s26223.pb \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s26242.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s26242.pb \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s26277.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s26277.pb \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s262800.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s262800.pb \
+    vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s26298.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s26298.pb \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s26801.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s26801.pb \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s26801spn_3d_zon.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s26801spn_3d_zon.pb \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s26802.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s26802.pb \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s26803.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s26803.pb \
+    vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s26804.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s26804.pb \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s26806.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s26806.pb \
-    vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s26880.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s26880.pb \
+    vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s26808.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s26808.pb \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s26889.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s26889.pb \
+    vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s26891.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s26891.pb \
+    vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s26892.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s26892.pb \
+    vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s26897.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s26897.pb \
+    vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s26898.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s26898.pb \
+    vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s26899.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s26899.pb \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s27001.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s27001.pb \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s27002.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s27002.pb \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s27077.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s27077.pb \
@@ -680,6 +796,7 @@ PRODUCT_COPY_FILES += \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s29370imsi_3d_29370029xxxxxxx.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s29370imsi_3d_29370029xxxxxxx.pb \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s29401.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s29401.pb \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s29401gid1_3d_ff.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s29401gid1_3d_ff.pb \
+    vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s29401spn_3d_t_2d_mobile_20_mk.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s29401spn_3d_t_2d_mobile_20_mk.pb \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s29401spn_3d_telekom_20_mk.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s29401spn_3d_telekom_20_mk.pb \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s29401spn_3d_telekom_2e_mk.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s29401spn_3d_telekom_2e_mk.pb \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s29402.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s29402.pb \
@@ -694,6 +811,8 @@ PRODUCT_COPY_FILES += \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s29703.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s29703.pb \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s302130.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s302130.pb \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s302131.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s302131.pb \
+    vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s302150.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s302150.pb \
+    vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s302151.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s302151.pb \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s302220gid1_3d_4b4f.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s302220gid1_3d_4b4f.pb \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s302220gid1_3d_4d4f.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s302220gid1_3d_4d4f.pb \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s302220gid1_3d_5043.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s302220gid1_3d_5043.pb \
@@ -704,7 +823,20 @@ PRODUCT_COPY_FILES += \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s302220gid1_3d_6532.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s302220gid1_3d_6532.pb \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s302220gid1_3d_6538.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s302220gid1_3d_6538.pb \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s302220gid1_3d_6630.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s302220gid1_3d_6630.pb \
+    vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s302220gid1_3d_6636.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s302220gid1_3d_6636.pb \
+    vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s302220gid1_3d_6638.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s302220gid1_3d_6638.pb \
+    vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s302220gid1_3d_6732.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s302220gid1_3d_6732.pb \
+    vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s302220gid1_3d_6736.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s302220gid1_3d_6736.pb \
+    vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s302220gid1_3d_6738.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s302220gid1_3d_6738.pb \
+    vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s302220gid1_3d_6830.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s302220gid1_3d_6830.pb \
+    vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s302220gid1_3d_6836.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s302220gid1_3d_6836.pb \
+    vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s302220gid1_3d_6838.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s302220gid1_3d_6838.pb \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s302220gid1_3d_7330.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s302220gid1_3d_7330.pb \
+    vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s302220gid1_3d_7530.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s302220gid1_3d_7530.pb \
+    vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s302220gid1_3d_8030.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s302220gid1_3d_8030.pb \
+    vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s302220gid1_3d_9030.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s302220gid1_3d_9030.pb \
+    vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s302220spn_3d_wom.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s302220spn_3d_wom.pb \
+    vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s302220spn_3d_wom_20_roaming.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s302220spn_3d_wom_20_roaming.pb \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s302220spn_3d_wom_20_roaming_20_int.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s302220spn_3d_wom_20_roaming_20_int.pb \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s302221gid1_3d_4b4f.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s302221gid1_3d_4b4f.pb \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s302221gid1_3d_4d4f.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s302221gid1_3d_4d4f.pb \
@@ -715,18 +847,16 @@ PRODUCT_COPY_FILES += \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s302270.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s302270.pb \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s302290.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s302290.pb \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s302320.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s302320.pb \
-    vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s30237.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s30237.pb \
-    vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s302370.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s302370.pb \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s302370gid1_3d_2c.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s302370gid1_3d_2c.pb \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s302370gid1_3d_4d.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s302370gid1_3d_4d.pb \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s302370gid1_3d_dd.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s302370gid1_3d_dd.pb \
-    vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s302370spn_3d_cnt.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s302370spn_3d_cnt.pb \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s302370spn_3d_mts.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s302370spn_3d_mts.pb \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s302490.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s302490.pb \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s302490gid1_3d_53.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s302490gid1_3d_53.pb \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s302500.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s302500.pb \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s302500gid1_3d_55.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s302500gid1_3d_55.pb \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s302510.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s302510.pb \
+    vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s302510gid1_3d_55.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s302510gid1_3d_55.pb \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s302520.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s302520.pb \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s302610.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s302610.pb \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s302610gid1_3d_3e.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s302610gid1_3d_3e.pb \
@@ -756,18 +886,21 @@ PRODUCT_COPY_FILES += \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s30268.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s30268.pb \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s302680.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s302680.pb \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s302690.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s302690.pb \
+    vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s302690gid1_3d_41.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s302690gid1_3d_41.pb \
+    vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s302690gid1_3d_43.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s302690gid1_3d_43.pb \
+    vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s30271.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s30271.pb \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s30272.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s30272.pb \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s302720.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s302720.pb \
+    vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s302720gid1_3d_a4.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s302720gid1_3d_a4.pb \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s302720gid1_3d_ba.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s302720gid1_3d_ba.pb \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s302720gid1_3d_d2.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s302720gid1_3d_d2.pb \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s302720gid1_3d_d4.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s302720gid1_3d_d4.pb \
+    vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s302720imsi_3d_302720x83.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s302720imsi_3d_302720x83.pb \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s302720imsi_3d_302720x84.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s302720imsi_3d_302720x84.pb \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s302720imsi_3d_302720x94.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s302720imsi_3d_302720x94.pb \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s302720imsi_3d_302720x98.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s302720imsi_3d_302720x98.pb \
-    vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s302720imsi_3d_302720x98xx.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s302720imsi_3d_302720x98xx.pb \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s302720spn_3d_cityfone.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s302720spn_3d_cityfone.pb \
-    vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s302720spn_3d_rogers.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s302720spn_3d_rogers.pb \
-    vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s302720spn_3d_rogers_20_at_26_t.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s302720spn_3d_rogers_20_at_26_t.pb \
+    vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s302721.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s302721.pb \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s302780.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s302780.pb \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s302860.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s302860.pb \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s30286gid1_3d_4b4f.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s30286gid1_3d_4b4f.pb \
@@ -921,6 +1054,7 @@ PRODUCT_COPY_FILES += \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s310010.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s310010.pb \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s310012.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s310012.pb \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s310013.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s310013.pb \
+    vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s310014.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s310014.pb \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s310016.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s310016.pb \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s310020.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s310020.pb \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s310023.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s310023.pb \
@@ -943,6 +1077,7 @@ PRODUCT_COPY_FILES += \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s310070.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s310070.pb \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s310080.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s310080.pb \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s310090.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s310090.pb \
+    vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s310090gid1_3d_80ff.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s310090gid1_3d_80ff.pb \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s310100.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s310100.pb \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s310110.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s310110.pb \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s310120.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s310120.pb \
@@ -1126,19 +1261,44 @@ PRODUCT_COPY_FILES += \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s310240gid1_3d_354d.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s310240gid1_3d_354d.pb \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s310240gid1_3d_364d.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s310240gid1_3d_364d.pb \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s310240gid1_3d_4153.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s310240gid1_3d_4153.pb \
+    vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s310240gid1_3d_4154.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s310240gid1_3d_4154.pb \
+    vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s310240gid1_3d_4155.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s310240gid1_3d_4155.pb \
+    vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s310240gid1_3d_4276.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s310240gid1_3d_4276.pb \
+    vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s310240gid1_3d_4358.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s310240gid1_3d_4358.pb \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s310240gid1_3d_4d4b.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s310240gid1_3d_4d4b.pb \
+    vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s310240gid1_3d_514c.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s310240gid1_3d_514c.pb \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s310240gid1_3d_534d.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s310240gid1_3d_534d.pb \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s310240gid1_3d_554d.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s310240gid1_3d_554d.pb \
+    vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s310240gid1_3d_6132.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s310240gid1_3d_6132.pb \
+    vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s310240gid1_3d_6134.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s310240gid1_3d_6134.pb \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s310240gid1_3d_6230.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s310240gid1_3d_6230.pb \
+    vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s310240gid1_3d_6303.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s310240gid1_3d_6303.pb \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s310240gid1_3d_6430.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s310240gid1_3d_6430.pb \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s310240gid1_3d_6432.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s310240gid1_3d_6432.pb \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s310240gid1_3d_6434.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s310240gid1_3d_6434.pb \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s310240gid1_3d_6436.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s310240gid1_3d_6436.pb \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s310240gid1_3d_6438.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s310240gid1_3d_6438.pb \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s310240gid1_3d_6440.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s310240gid1_3d_6440.pb \
+    vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s310240gid1_3d_6442.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s310240gid1_3d_6442.pb \
+    vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s310240gid1_3d_6901.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s310240gid1_3d_6901.pb \
+    vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s310240gid1_3d_6902.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s310240gid1_3d_6902.pb \
+    vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s310240gid1_3d_6903.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s310240gid1_3d_6903.pb \
+    vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s310240gid1_3d_6905.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s310240gid1_3d_6905.pb \
+    vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s310240gid1_3d_6907.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s310240gid1_3d_6907.pb \
+    vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s310240gid1_3d_6909.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s310240gid1_3d_6909.pb \
+    vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s310240gid1_3d_6910.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s310240gid1_3d_6910.pb \
+    vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s310240gid1_3d_6911.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s310240gid1_3d_6911.pb \
+    vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s310240gid1_3d_6912.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s310240gid1_3d_6912.pb \
+    vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s310240gid1_3d_6941.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s310240gid1_3d_6941.pb \
+    vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s310240gid1_3d_6957.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s310240gid1_3d_6957.pb \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s310240gid1_3d_6c79.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s310240gid1_3d_6c79.pb \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s310240gid1_3d_6d38.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s310240gid1_3d_6d38.pb \
+    vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s310240gid1_3d_7031.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s310240gid1_3d_7031.pb \
+    vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s310240gid1_3d_7032.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s310240gid1_3d_7032.pb \
+    vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s310240gid1_3d_7531.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s310240gid1_3d_7531.pb \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s310240gid1_3d_756d.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s310240gid1_3d_756d.pb \
+    vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s310240gid1_3d_7601.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s310240gid1_3d_7601.pb \
+    vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s310240gid1_3d_ddff.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s310240gid1_3d_ddff.pb \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s310240gid1_3d_deff.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s310240gid1_3d_deff.pb \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s310250.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s310250.pb \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s310250gid1_3d_1a53.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s310250gid1_3d_1a53.pb \
@@ -1147,7 +1307,9 @@ PRODUCT_COPY_FILES += \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s31026.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s31026.pb \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s310260.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s310260.pb \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s310260gid1_3d_1a53.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s310260gid1_3d_1a53.pb \
+    vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s310260gid1_3d_2801.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s310260gid1_3d_2801.pb \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s310260gid1_3d_2ac9.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s310260gid1_3d_2ac9.pb \
+    vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s310260gid1_3d_3201.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s310260gid1_3d_3201.pb \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s310260gid1_3d_354d.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s310260gid1_3d_354d.pb \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s310260gid1_3d_364d.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s310260gid1_3d_364d.pb \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s310260gid1_3d_37ff.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s310260gid1_3d_37ff.pb \
@@ -1155,30 +1317,59 @@ PRODUCT_COPY_FILES += \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s310260gid1_3d_39ff.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s310260gid1_3d_39ff.pb \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s310260gid1_3d_4102.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s310260gid1_3d_4102.pb \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s310260gid1_3d_4153.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s310260gid1_3d_4153.pb \
+    vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s310260gid1_3d_4154.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s310260gid1_3d_4154.pb \
+    vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s310260gid1_3d_4155.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s310260gid1_3d_4155.pb \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s310260gid1_3d_4201.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s310260gid1_3d_4201.pb \
+    vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s310260gid1_3d_4276.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s310260gid1_3d_4276.pb \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s310260gid1_3d_4358.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s310260gid1_3d_4358.pb \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s310260gid1_3d_44ff.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s310260gid1_3d_44ff.pb \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s310260gid1_3d_4753.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s310260gid1_3d_4753.pb \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s310260gid1_3d_49ff.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s310260gid1_3d_49ff.pb \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s310260gid1_3d_4b4f.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s310260gid1_3d_4b4f.pb \
+    vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s310260gid1_3d_4c45.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s310260gid1_3d_4c45.pb \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s310260gid1_3d_4d4b.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s310260gid1_3d_4d4b.pb \
+    vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s310260gid1_3d_4e45.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s310260gid1_3d_4e45.pb \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s310260gid1_3d_50ff.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s310260gid1_3d_50ff.pb \
+    vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s310260gid1_3d_514c.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s310260gid1_3d_514c.pb \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s310260gid1_3d_524d.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s310260gid1_3d_524d.pb \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s310260gid1_3d_534d.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s310260gid1_3d_534d.pb \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s310260gid1_3d_554d.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s310260gid1_3d_554d.pb \
+    vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s310260gid1_3d_574d.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s310260gid1_3d_574d.pb \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s310260gid1_3d_60ff.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s310260gid1_3d_60ff.pb \
+    vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s310260gid1_3d_6132.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s310260gid1_3d_6132.pb \
+    vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s310260gid1_3d_6133.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s310260gid1_3d_6133.pb \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s310260gid1_3d_6134.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s310260gid1_3d_6134.pb \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s310260gid1_3d_6135.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s310260gid1_3d_6135.pb \
+    vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s310260gid1_3d_6136.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s310260gid1_3d_6136.pb \
+    vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s310260gid1_3d_6137.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s310260gid1_3d_6137.pb \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s310260gid1_3d_61ff.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s310260gid1_3d_61ff.pb \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s310260gid1_3d_6230.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s310260gid1_3d_6230.pb \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s310260gid1_3d_62ff.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s310260gid1_3d_62ff.pb \
+    vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s310260gid1_3d_6303.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s310260gid1_3d_6303.pb \
+    vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s310260gid1_3d_6901.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s310260gid1_3d_6901.pb \
+    vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s310260gid1_3d_6902.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s310260gid1_3d_6902.pb \
+    vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s310260gid1_3d_6903.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s310260gid1_3d_6903.pb \
+    vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s310260gid1_3d_6905.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s310260gid1_3d_6905.pb \
+    vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s310260gid1_3d_6907.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s310260gid1_3d_6907.pb \
+    vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s310260gid1_3d_6909.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s310260gid1_3d_6909.pb \
+    vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s310260gid1_3d_6910.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s310260gid1_3d_6910.pb \
+    vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s310260gid1_3d_6911.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s310260gid1_3d_6911.pb \
+    vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s310260gid1_3d_6912.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s310260gid1_3d_6912.pb \
+    vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s310260gid1_3d_6941.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s310260gid1_3d_6941.pb \
+    vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s310260gid1_3d_6957.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s310260gid1_3d_6957.pb \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s310260gid1_3d_69ff.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s310260gid1_3d_69ff.pb \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s310260gid1_3d_6c79.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s310260gid1_3d_6c79.pb \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s310260gid1_3d_6d38.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s310260gid1_3d_6d38.pb \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s310260gid1_3d_7031.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s310260gid1_3d_7031.pb \
+    vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s310260gid1_3d_7032.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s310260gid1_3d_7032.pb \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s310260gid1_3d_726d.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s310260gid1_3d_726d.pb \
+    vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s310260gid1_3d_7376.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s310260gid1_3d_7376.pb \
+    vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s310260gid1_3d_7477.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s310260gid1_3d_7477.pb \
+    vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s310260gid1_3d_7531.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s310260gid1_3d_7531.pb \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s310260gid1_3d_756d.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s310260gid1_3d_756d.pb \
+    vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s310260gid1_3d_7601.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s310260gid1_3d_7601.pb \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s310260gid1_3d_8234.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s310260gid1_3d_8234.pb \
+    vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s310260gid1_3d_ab.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s310260gid1_3d_ab.pb \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s310260gid1_3d_ddff.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s310260gid1_3d_ddff.pb \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s310260gid1_3d_deff.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s310260gid1_3d_deff.pb \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s310260imsi_3d_31026097.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s310260imsi_3d_31026097.pb \
@@ -1188,7 +1379,18 @@ PRODUCT_COPY_FILES += \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s310270gid1_3d_6d38.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s310270gid1_3d_6d38.pb \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s310280.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s310280.pb \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s310280gid1_3d_15ff.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s310280gid1_3d_15ff.pb \
+    vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s310280gid1_3d_20.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s310280gid1_3d_20.pb \
+    vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s310280gid1_3d_21.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s310280gid1_3d_21.pb \
+    vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s310280gid1_3d_22.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s310280gid1_3d_22.pb \
+    vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s310280gid1_3d_23.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s310280gid1_3d_23.pb \
+    vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s310280gid1_3d_24.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s310280gid1_3d_24.pb \
+    vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s310280gid1_3d_25.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s310280gid1_3d_25.pb \
+    vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s310280gid1_3d_26.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s310280gid1_3d_26.pb \
+    vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s310280gid1_3d_27.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s310280gid1_3d_27.pb \
+    vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s310280gid1_3d_28.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s310280gid1_3d_28.pb \
+    vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s310280gid1_3d_29.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s310280gid1_3d_29.pb \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s310280gid1_3d_2ac9.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s310280gid1_3d_2ac9.pb \
+    vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s310280gid1_3d_30.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s310280gid1_3d_30.pb \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s310280gid1_3d_4102.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s310280gid1_3d_4102.pb \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s310280gid1_3d_4201.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s310280gid1_3d_4201.pb \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s310280gid1_3d_44ff.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s310280gid1_3d_44ff.pb \
@@ -1197,6 +1399,7 @@ PRODUCT_COPY_FILES += \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s310280gid1_3d_53ff.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s310280gid1_3d_53ff.pb \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s310280gid1_3d_62ff.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s310280gid1_3d_62ff.pb \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s310280gid1_3d_69ff.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s310280gid1_3d_69ff.pb \
+    vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s310280gid1_3d_80ff.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s310280gid1_3d_80ff.pb \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s310280gid1_3d_ddff.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s310280gid1_3d_ddff.pb \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s310280gid1_3d_deff.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s310280gid1_3d_deff.pb \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s31030.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s31030.pb \
@@ -1222,11 +1425,30 @@ PRODUCT_COPY_FILES += \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s310390.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s310390.pb \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s310410.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s310410.pb \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s310410gid1_3d_15ff.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s310410gid1_3d_15ff.pb \
+    vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s310410gid1_3d_20.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s310410gid1_3d_20.pb \
+    vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s310410gid1_3d_21.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s310410gid1_3d_21.pb \
+    vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s310410gid1_3d_22.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s310410gid1_3d_22.pb \
+    vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s310410gid1_3d_23.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s310410gid1_3d_23.pb \
+    vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s310410gid1_3d_24.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s310410gid1_3d_24.pb \
+    vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s310410gid1_3d_25.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s310410gid1_3d_25.pb \
+    vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s310410gid1_3d_26.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s310410gid1_3d_26.pb \
+    vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s310410gid1_3d_27.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s310410gid1_3d_27.pb \
+    vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s310410gid1_3d_28.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s310410gid1_3d_28.pb \
+    vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s310410gid1_3d_29.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s310410gid1_3d_29.pb \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s310410gid1_3d_2ac9.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s310410gid1_3d_2ac9.pb \
+    vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s310410gid1_3d_30.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s310410gid1_3d_30.pb \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s310410gid1_3d_3430.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s310410gid1_3d_3430.pb \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s310410gid1_3d_3432.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s310410gid1_3d_3432.pb \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s310410gid1_3d_3434.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s310410gid1_3d_3434.pb \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s310410gid1_3d_3436.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s310410gid1_3d_3436.pb \
+    vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s310410gid1_3d_3438.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s310410gid1_3d_3438.pb \
+    vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s310410gid1_3d_3440.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s310410gid1_3d_3440.pb \
+    vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s310410gid1_3d_3442.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s310410gid1_3d_3442.pb \
+    vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s310410gid1_3d_3444.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s310410gid1_3d_3444.pb \
+    vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s310410gid1_3d_3446.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s310410gid1_3d_3446.pb \
+    vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s310410gid1_3d_3448.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s310410gid1_3d_3448.pb \
+    vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s310410gid1_3d_3450.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s310410gid1_3d_3450.pb \
+    vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s310410gid1_3d_3452.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s310410gid1_3d_3452.pb \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s310410gid1_3d_4102.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s310410gid1_3d_4102.pb \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s310410gid1_3d_4201.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s310410gid1_3d_4201.pb \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s310410gid1_3d_44ff.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s310410gid1_3d_44ff.pb \
@@ -1236,6 +1458,7 @@ PRODUCT_COPY_FILES += \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s310410gid1_3d_60ff.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s310410gid1_3d_60ff.pb \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s310410gid1_3d_62ff.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s310410gid1_3d_62ff.pb \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s310410gid1_3d_69ff.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s310410gid1_3d_69ff.pb \
+    vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s310410gid1_3d_80ff.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s310410gid1_3d_80ff.pb \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s310410gid1_3d_ddff.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s310410gid1_3d_ddff.pb \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s310410gid1_3d_deff.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s310410gid1_3d_deff.pb \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s310420.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s310420.pb \
@@ -1258,12 +1481,38 @@ PRODUCT_COPY_FILES += \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s310560gid1_3d_deff.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s310560gid1_3d_deff.pb \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s310570.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s310570.pb \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s310580.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s310580.pb \
-    vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s310580spn_3d_inland_20_cellular.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s310580spn_3d_inland_20_cellular.pb \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s310580spn_3d_sprint.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s310580spn_3d_sprint.pb \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s310590.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s310590.pb \
+    vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s310590gid1_3d_ba01270000000000.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s310590gid1_3d_ba01270000000000.pb \
+    vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s310590gid1_3d_ba01450000000000.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s310590gid1_3d_ba01450000000000.pb \
+    vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s310590gid1_3d_ba01620000000000.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s310590gid1_3d_ba01620000000000.pb \
+    vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s310590gid1_3d_ba01640000000000.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s310590gid1_3d_ba01640000000000.pb \
+    vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s310591.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s310591.pb \
+    vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s310591gid1_3d_ba01270000000000.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s310591gid1_3d_ba01270000000000.pb \
+    vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s310591gid1_3d_ba01640000000000.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s310591gid1_3d_ba01640000000000.pb \
+    vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s310592.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s310592.pb \
+    vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s310592gid1_3d_ba01270000000000.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s310592gid1_3d_ba01270000000000.pb \
+    vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s310593.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s310593.pb \
+    vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s310593gid1_3d_ba01270000000000.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s310593gid1_3d_ba01270000000000.pb \
+    vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s310594.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s310594.pb \
+    vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s310594gid1_3d_ba01270000000000.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s310594gid1_3d_ba01270000000000.pb \
+    vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s310595.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s310595.pb \
+    vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s310595gid1_3d_ba01270000000000.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s310595gid1_3d_ba01270000000000.pb \
+    vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s310596.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s310596.pb \
+    vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s310596gid1_3d_ba01270000000000.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s310596gid1_3d_ba01270000000000.pb \
+    vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s310597.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s310597.pb \
+    vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s310597gid1_3d_ba01270000000000.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s310597gid1_3d_ba01270000000000.pb \
+    vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s310598.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s310598.pb \
+    vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s310598gid1_3d_ba01270000000000.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s310598gid1_3d_ba01270000000000.pb \
+    vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s310599.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s310599.pb \
+    vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s310599gid1_3d_ba01270000000000.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s310599gid1_3d_ba01270000000000.pb \
+    vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s310599gid1_3d_ba01450000000000.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s310599gid1_3d_ba01450000000000.pb \
+    vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s310599gid1_3d_ba01620000000000.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s310599gid1_3d_ba01620000000000.pb \
+    vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s310599gid1_3d_ba01640000000000.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s310599gid1_3d_ba01640000000000.pb \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s310600.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s310600.pb \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s310600gid1_3d_ba00040000000000.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s310600gid1_3d_ba00040000000000.pb \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s310610.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s310610.pb \
+    vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s310630.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s310630.pb \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s310640.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s310640.pb \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s310640gid1_3d_6d38.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s310640gid1_3d_6d38.pb \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s310660.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s310660.pb \
@@ -1273,7 +1522,6 @@ PRODUCT_COPY_FILES += \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s310670.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s310670.pb \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s310680.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s310680.pb \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s310690.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s310690.pb \
-    vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s310710.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s310710.pb \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s310720.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s310720.pb \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s310750.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s310750.pb \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s310750gid1_3d_ba00120000000000.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s310750gid1_3d_ba00120000000000.pb \
@@ -1295,9 +1543,26 @@ PRODUCT_COPY_FILES += \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s310930gid1_3d_ba00090000000000.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s310930gid1_3d_ba00090000000000.pb \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s310930gid1_3d_ba00170000000000.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s310930gid1_3d_ba00170000000000.pb \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s310950.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s310950.pb \
+    vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s310950gid1_3d_20.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s310950gid1_3d_20.pb \
+    vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s310950gid1_3d_21.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s310950gid1_3d_21.pb \
+    vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s310950gid1_3d_22.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s310950gid1_3d_22.pb \
+    vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s310950gid1_3d_23.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s310950gid1_3d_23.pb \
+    vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s310950gid1_3d_24.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s310950gid1_3d_24.pb \
+    vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s310950gid1_3d_25.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s310950gid1_3d_25.pb \
+    vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s310950gid1_3d_26.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s310950gid1_3d_26.pb \
+    vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s310950gid1_3d_27.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s310950gid1_3d_27.pb \
+    vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s310950gid1_3d_28.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s310950gid1_3d_28.pb \
+    vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s310950gid1_3d_29.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s310950gid1_3d_29.pb \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s310950gid1_3d_2ac9.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s310950gid1_3d_2ac9.pb \
+    vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s310950gid1_3d_30.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s310950gid1_3d_30.pb \
+    vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s310950gid1_3d_4102.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s310950gid1_3d_4102.pb \
+    vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s310950gid1_3d_4201.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s310950gid1_3d_4201.pb \
+    vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s310950gid1_3d_44ff.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s310950gid1_3d_44ff.pb \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s310950gid1_3d_52ff.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s310950gid1_3d_52ff.pb \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s310950gid1_3d_53ff.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s310950gid1_3d_53ff.pb \
+    vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s310950gid1_3d_62ff.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s310950gid1_3d_62ff.pb \
+    vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s310950gid1_3d_69ff.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s310950gid1_3d_69ff.pb \
+    vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s310950gid1_3d_ddff.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s310950gid1_3d_ddff.pb \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s310950gid1_3d_deff.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s310950gid1_3d_deff.pb \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s310960.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s310960.pb \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s310960gid1_3d_ba00110000000000.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s310960gid1_3d_ba00110000000000.pb \
@@ -1308,6 +1573,7 @@ PRODUCT_COPY_FILES += \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s310960spn_3d_strata.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s310960spn_3d_strata.pb \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s310960spn_3d_syringa.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s310960spn_3d_syringa.pb \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s310980.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s310980.pb \
+    vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s310990.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s310990.pb \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s311012.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s311012.pb \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s311030.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s311030.pb \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s311040.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s311040.pb \
@@ -1327,13 +1593,33 @@ PRODUCT_COPY_FILES += \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s311140spn_3d_sprocket.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s311140spn_3d_sprocket.pb \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s311167.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s311167.pb \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s311180.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s311180.pb \
+    vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s311180gid1_3d_20.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s311180gid1_3d_20.pb \
+    vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s311180gid1_3d_21.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s311180gid1_3d_21.pb \
+    vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s311180gid1_3d_22.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s311180gid1_3d_22.pb \
+    vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s311180gid1_3d_23.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s311180gid1_3d_23.pb \
+    vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s311180gid1_3d_24.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s311180gid1_3d_24.pb \
+    vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s311180gid1_3d_25.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s311180gid1_3d_25.pb \
+    vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s311180gid1_3d_26.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s311180gid1_3d_26.pb \
+    vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s311180gid1_3d_27.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s311180gid1_3d_27.pb \
+    vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s311180gid1_3d_28.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s311180gid1_3d_28.pb \
+    vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s311180gid1_3d_29.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s311180gid1_3d_29.pb \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s311180gid1_3d_2ac9.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s311180gid1_3d_2ac9.pb \
+    vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s311180gid1_3d_30.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s311180gid1_3d_30.pb \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s311180gid1_3d_3430.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s311180gid1_3d_3430.pb \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s311180gid1_3d_3432.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s311180gid1_3d_3432.pb \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s311180gid1_3d_3434.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s311180gid1_3d_3434.pb \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s311180gid1_3d_3436.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s311180gid1_3d_3436.pb \
+    vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s311180gid1_3d_3438.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s311180gid1_3d_3438.pb \
+    vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s311180gid1_3d_3440.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s311180gid1_3d_3440.pb \
+    vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s311180gid1_3d_4102.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s311180gid1_3d_4102.pb \
+    vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s311180gid1_3d_4201.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s311180gid1_3d_4201.pb \
+    vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s311180gid1_3d_44ff.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s311180gid1_3d_44ff.pb \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s311180gid1_3d_52ff.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s311180gid1_3d_52ff.pb \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s311180gid1_3d_53ff.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s311180gid1_3d_53ff.pb \
+    vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s311180gid1_3d_62ff.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s311180gid1_3d_62ff.pb \
+    vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s311180gid1_3d_69ff.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s311180gid1_3d_69ff.pb \
+    vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s311180gid1_3d_ddff.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s311180gid1_3d_ddff.pb \
+    vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s311180gid1_3d_deff.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s311180gid1_3d_deff.pb \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s311190.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s311190.pb \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s311210.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s311210.pb \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s311220.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s311220.pb \
@@ -1380,23 +1666,25 @@ PRODUCT_COPY_FILES += \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s311370.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s311370.pb \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s311370imsi_3d_3113702.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s311370imsi_3d_3113702.pb \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s311390.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s311390.pb \
+    vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s311400.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s311400.pb \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s311410.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s311410.pb \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s311410spn_3d_chatmobrsa2.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s311410spn_3d_chatmobrsa2.pb \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s311420.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s311420.pb \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s311420gid1_3d_ba00150000000000.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s311420gid1_3d_ba00150000000000.pb \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s311430.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s311430.pb \
+    vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s311430gid1_3d_ba00130000000000.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s311430gid1_3d_ba00130000000000.pb \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s311430spn_3d_chatmobrsa1.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s311430spn_3d_chatmobrsa1.pb \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s311440.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s311440.pb \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s311440gid1_3d_ba00010000000000.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s311440gid1_3d_ba00010000000000.pb \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s311450.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s311450.pb \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s311450spn_3d_sprint.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s311450spn_3d_sprint.pb \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s311480.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s311480.pb \
-    vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s311480gid1_3d_b100000000000000.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s311480gid1_3d_b100000000000000.pb \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s311480gid1_3d_ba00010000000000.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s311480gid1_3d_ba00010000000000.pb \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s311480gid1_3d_ba00020000000000.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s311480gid1_3d_ba00020000000000.pb \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s311480gid1_3d_ba00030000000000.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s311480gid1_3d_ba00030000000000.pb \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s311480gid1_3d_ba00040000000000.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s311480gid1_3d_ba00040000000000.pb \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s311480gid1_3d_ba00050000000000.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s311480gid1_3d_ba00050000000000.pb \
+    vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s311480gid1_3d_ba00060000000000.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s311480gid1_3d_ba00060000000000.pb \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s311480gid1_3d_ba00070000000000.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s311480gid1_3d_ba00070000000000.pb \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s311480gid1_3d_ba00090000000000.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s311480gid1_3d_ba00090000000000.pb \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s311480gid1_3d_ba00100000000000.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s311480gid1_3d_ba00100000000000.pb \
@@ -1412,7 +1700,10 @@ PRODUCT_COPY_FILES += \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s311480gid1_3d_ba01270000000000.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s311480gid1_3d_ba01270000000000.pb \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s311480gid1_3d_ba01450000000000.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s311480gid1_3d_ba01450000000000.pb \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s311480gid1_3d_ba01490000000000.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s311480gid1_3d_ba01490000000000.pb \
+    vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s311480gid1_3d_ba01500000000000.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s311480gid1_3d_ba01500000000000.pb \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s311480gid1_3d_ba01570000000000.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s311480gid1_3d_ba01570000000000.pb \
+    vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s311480gid1_3d_ba01620000000000.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s311480gid1_3d_ba01620000000000.pb \
+    vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s311480gid1_3d_ba01640000000000.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s311480gid1_3d_ba01640000000000.pb \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s311480gid1_3d_bae1000000000000.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s311480gid1_3d_bae1000000000000.pb \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s311480gid1_3d_bae2000000000000.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s311480gid1_3d_bae2000000000000.pb \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s311480spn_3d_nntcwire.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s311480spn_3d_nntcwire.pb \
@@ -1421,18 +1712,38 @@ PRODUCT_COPY_FILES += \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s311480spn_3d_southcentral.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s311480spn_3d_southcentral.pb \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s311480spn_3d_syringa.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s311480spn_3d_syringa.pb \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s311481.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s311481.pb \
+    vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s311481gid1_3d_ba01450000000000.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s311481gid1_3d_ba01450000000000.pb \
+    vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s311481gid1_3d_ba01640000000000.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s311481gid1_3d_ba01640000000000.pb \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s311482.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s311482.pb \
+    vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s311482gid1_3d_ba01450000000000.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s311482gid1_3d_ba01450000000000.pb \
+    vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s311482gid1_3d_ba01640000000000.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s311482gid1_3d_ba01640000000000.pb \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s311483.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s311483.pb \
+    vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s311483gid1_3d_ba01450000000000.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s311483gid1_3d_ba01450000000000.pb \
+    vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s311483gid1_3d_ba01640000000000.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s311483gid1_3d_ba01640000000000.pb \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s311484.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s311484.pb \
+    vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s311484gid1_3d_ba01450000000000.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s311484gid1_3d_ba01450000000000.pb \
+    vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s311484gid1_3d_ba01640000000000.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s311484gid1_3d_ba01640000000000.pb \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s311485.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s311485.pb \
+    vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s311485gid1_3d_ba01450000000000.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s311485gid1_3d_ba01450000000000.pb \
+    vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s311485gid1_3d_ba01640000000000.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s311485gid1_3d_ba01640000000000.pb \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s311486.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s311486.pb \
+    vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s311486gid1_3d_ba01450000000000.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s311486gid1_3d_ba01450000000000.pb \
+    vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s311486gid1_3d_ba01640000000000.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s311486gid1_3d_ba01640000000000.pb \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s311487.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s311487.pb \
+    vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s311487gid1_3d_ba01450000000000.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s311487gid1_3d_ba01450000000000.pb \
+    vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s311487gid1_3d_ba01640000000000.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s311487gid1_3d_ba01640000000000.pb \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s311488.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s311488.pb \
+    vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s311488gid1_3d_ba01450000000000.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s311488gid1_3d_ba01450000000000.pb \
+    vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s311488gid1_3d_ba01640000000000.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s311488gid1_3d_ba01640000000000.pb \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s311489.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s311489.pb \
+    vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s311489gid1_3d_ba01450000000000.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s311489gid1_3d_ba01450000000000.pb \
+    vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s311489gid1_3d_ba01640000000000.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s311489gid1_3d_ba01640000000000.pb \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s311490.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s311490.pb \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s311490gid1_3d_000003.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s311490gid1_3d_000003.pb \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s311490gid1_3d_000005.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s311490gid1_3d_000005.pb \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s311490gid1_3d_000006.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s311490gid1_3d_000006.pb \
+    vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s311490gid1_3d_1a53.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s311490gid1_3d_1a53.pb \
+    vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s311490gid1_3d_6d38.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s311490gid1_3d_6d38.pb \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s311500spn_3d_24_2d_7_20_wireless.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s311500spn_3d_24_2d_7_20_wireless.pb \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s311500spn_3d_24_2d_7_20_wireless_20_rpa.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s311500spn_3d_24_2d_7_20_wireless_20_rpa.pb \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s311500spn_3d_24_2d_7_20_wireless_20_rpo.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s311500spn_3d_24_2d_7_20_wireless_20_rpo.pb \
@@ -1461,6 +1772,7 @@ PRODUCT_COPY_FILES += \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s311589.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s311589.pb \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s311590.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s311590.pb \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s311590spn_3d_gsc.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s311590spn_3d_gsc.pb \
+    vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s311600.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s311600.pb \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s311600spn_3d_cox.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s311600spn_3d_cox.pb \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s311610.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s311610.pb \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s311610gid1_3d_ba00100000000000.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s311610gid1_3d_ba00100000000000.pb \
@@ -1468,6 +1780,7 @@ PRODUCT_COPY_FILES += \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s311630spn_3d_sprint.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s311630spn_3d_sprint.pb \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s311650.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s311650.pb \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s311650gid1_3d_ba00220000000000.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s311650gid1_3d_ba00220000000000.pb \
+    vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s311650spn_3d_unitedwireless.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s311650spn_3d_unitedwireless.pb \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s311660.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s311660.pb \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s311660gid1_3d_1a53.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s311660gid1_3d_1a53.pb \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s311660gid1_3d_6d38.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s311660gid1_3d_6d38.pb \
@@ -1479,6 +1792,7 @@ PRODUCT_COPY_FILES += \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s311780.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s311780.pb \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s311800.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s311800.pb \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s311810.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s311810.pb \
+    vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s311830.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s311830.pb \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s311840.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s311840.pb \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s311840gid1_3d_c1000000.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s311840gid1_3d_c1000000.pb \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s311850.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s311850.pb \
@@ -1509,6 +1823,7 @@ PRODUCT_COPY_FILES += \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s312250gid1_3d_6d38.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s312250gid1_3d_6d38.pb \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s312280.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s312280.pb \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s312290.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s312290.pb \
+    vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s312290gid1_3d_ba000000000004c3e2.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s312290gid1_3d_ba000000000004c3e2.pb \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s312380.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s312380.pb \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s312420.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s312420.pb \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s312420spn_3d_sprint.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s312420spn_3d_sprint.pb \
@@ -1670,8 +1985,11 @@ PRODUCT_COPY_FILES += \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s313040.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s313040.pb \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s313050.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s313050.pb \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s313100.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s313100.pb \
+    vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s313100gid1_3d_52ff.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s313100gid1_3d_52ff.pb \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s313110.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s313110.pb \
+    vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s313110gid1_3d_52ff.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s313110gid1_3d_52ff.pb \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s313120.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s313120.pb \
+    vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s313120gid1_3d_52ff.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s313120gid1_3d_52ff.pb \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s313130.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s313130.pb \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s313140.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s313140.pb \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s313220.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s313220.pb \
@@ -1681,15 +1999,33 @@ PRODUCT_COPY_FILES += \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s313340gid1_3d_6532.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s313340gid1_3d_6532.pb \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s313340gid1_3d_6538.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s313340gid1_3d_6538.pb \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s313340gid1_3d_6630.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s313340gid1_3d_6630.pb \
+    vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s313340gid1_3d_6636.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s313340gid1_3d_6636.pb \
+    vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s313340gid1_3d_6638.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s313340gid1_3d_6638.pb \
+    vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s313340gid1_3d_6730.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s313340gid1_3d_6730.pb \
+    vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s313340gid1_3d_6732.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s313340gid1_3d_6732.pb \
+    vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s313340gid1_3d_6736.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s313340gid1_3d_6736.pb \
+    vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s313340gid1_3d_6738.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s313340gid1_3d_6738.pb \
+    vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s313340gid1_3d_6830.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s313340gid1_3d_6830.pb \
+    vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s313340gid1_3d_6836.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s313340gid1_3d_6836.pb \
+    vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s313340gid1_3d_6838.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s313340gid1_3d_6838.pb \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s313340gid1_3d_7330.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s313340gid1_3d_7330.pb \
+    vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s313340gid1_3d_7530.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s313340gid1_3d_7530.pb \
+    vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s313340gid1_3d_8030.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s313340gid1_3d_8030.pb \
+    vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s313340gid1_3d_9030.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s313340gid1_3d_9030.pb \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s313380.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s313380.pb \
+    vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s313380spn_3d_optimera.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s313380spn_3d_optimera.pb \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s313390.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s313390.pb \
+    vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s313450.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s313450.pb \
+    vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s313450gid1_3d_ba01490000000000.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s313450gid1_3d_ba01490000000000.pb \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s313590.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s313590.pb \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s313640.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s313640.pb \
+    vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s313770.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s313770.pb \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s313790.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s313790.pb \
+    vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s313930.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s313930.pb \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s314020.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s314020.pb \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s314090.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s314090.pb \
-    vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s31420.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s31420.pb \
+    vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s314200.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s314200.pb \
+    vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s314240.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s314240.pb \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s315010.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s315010.pb \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s316010.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s316010.pb \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s330000.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s330000.pb \
@@ -1710,6 +2046,16 @@ PRODUCT_COPY_FILES += \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s334040.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s334040.pb \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s33405.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s33405.pb \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s334050.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s334050.pb \
+    vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s334050gid1_3d_424c5545ffffffffff.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s334050gid1_3d_424c5545ffffffffff.pb \
+    vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s334050gid1_3d_4d454741ffffffffff.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s334050gid1_3d_4d454741ffffffffff.pb \
+    vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s334050gid1_3d_4e45575757ffffffff.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s334050gid1_3d_4e45575757ffffffff.pb \
+    vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s334050gid1_3d_55424958ffffffffff.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s334050gid1_3d_55424958ffffffffff.pb \
+    vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s334050gid1_3d_594fffffffffffffff.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s334050gid1_3d_594fffffffffffffff.pb \
+    vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s33405gid1_3d_424c5545ffffffffff.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s33405gid1_3d_424c5545ffffffffff.pb \
+    vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s33405gid1_3d_4d454741ffffffffff.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s33405gid1_3d_4d454741ffffffffff.pb \
+    vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s33405gid1_3d_4e45575757ffffffff.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s33405gid1_3d_4e45575757ffffffff.pb \
+    vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s33405gid1_3d_55424958ffffffffff.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s33405gid1_3d_55424958ffffffffff.pb \
+    vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s33405gid1_3d_594fffffffffffffff.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s33405gid1_3d_594fffffffffffffff.pb \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s334070.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s334070.pb \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s334080.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s334080.pb \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s33409.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s33409.pb \
@@ -1744,6 +2090,7 @@ PRODUCT_COPY_FILES += \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s334140spn_3d_valor.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s334140spn_3d_valor.pb \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s334140spn_3d_wimo.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s334140spn_3d_wimo.pb \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s334140spn_3d_yo.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s334140spn_3d_yo.pb \
+    vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s334160.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s334160.pb \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s33430.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s33430.pb \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s338050.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s338050.pb \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s338070.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s338070.pb \
@@ -1762,6 +2109,7 @@ PRODUCT_COPY_FILES += \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s34817.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s34817.pb \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s348170.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s348170.pb \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s34877.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s34877.pb \
+    vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s350000.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s350000.pb \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s35211.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s35211.pb \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s352110.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s352110.pb \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s35486.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s35486.pb \
@@ -2132,19 +2480,25 @@ PRODUCT_COPY_FILES += \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s41902.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s41902.pb \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s41903.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s41903.pb \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s41904.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s41904.pb \
+    vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s41909.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s41909.pb \
+    vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s41909imsi_3d_41xxxxxx.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s41909imsi_3d_41xxxxxx.pb \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s42001.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s42001.pb \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s42003.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s42003.pb \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s42004.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s42004.pb \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s42005.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s42005.pb \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s42006.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s42006.pb \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s42009.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s42009.pb \
+    vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s42010.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s42010.pb \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s42101.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s42101.pb \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s42102.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s42102.pb \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s42103.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s42103.pb \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s42104.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s42104.pb \
+    vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s42111.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s42111.pb \
+    vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s42122.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s42122.pb \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s42202.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s42202.pb \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s42203.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s42203.pb \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s42204.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s42204.pb \
+    vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s42206.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s42206.pb \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s42402.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s42402.pb \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s42403.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s42403.pb \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s42403imsi_3d_424030221xxxxxx.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s42403imsi_3d_424030221xxxxxx.pb \
@@ -2171,6 +2525,7 @@ PRODUCT_COPY_FILES += \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s42601.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s42601.pb \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s42602.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s42602.pb \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s42604.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s42604.pb \
+    vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s42605.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s42605.pb \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s42701.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s42701.pb \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s42702.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s42702.pb \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s42702spn_3d_vodafone_20_qatar.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s42702spn_3d_vodafone_20_qatar.pb \
@@ -2211,14 +2566,23 @@ PRODUCT_COPY_FILES += \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s44010gid1_3d_01ffff.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s44010gid1_3d_01ffff.pb \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s44010spn_3d_rakuten.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s44010spn_3d_rakuten.pb \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s44011.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s44011.pb \
+    vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s44013.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s44013.pb \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s44020.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s44020.pb \
-    vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s44020imsi_3d_4402092.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s44020imsi_3d_4402092.pb \
+    vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s44020gid1_3d_01ffff.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s44020gid1_3d_01ffff.pb \
+    vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s44020gid1_3d_16ffff.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s44020gid1_3d_16ffff.pb \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s44050.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s44050.pb \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s44050gid1_3d_10.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s44050gid1_3d_10.pb \
+    vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s44050gid1_3d_20.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s44050gid1_3d_20.pb \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s44051.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s44051.pb \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s44051gid1_3d_10.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s44051gid1_3d_10.pb \
-    vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s44051spn_3d_rakuten.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s44051spn_3d_rakuten.pb \
+    vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s44051gid1_3d_20.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s44051gid1_3d_20.pb \
+    vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s44051gid1_3d_26.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s44051gid1_3d_26.pb \
+    vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s44052.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s44052.pb \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s44052gid1_3d_10.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s44052gid1_3d_10.pb \
+    vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s44054.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s44054.pb \
+    vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s44054gid1_3d_10.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s44054gid1_3d_10.pb \
+    vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s44054gid1_3d_20.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s44054gid1_3d_20.pb \
+    vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s44054gid1_3d_26.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s44054gid1_3d_26.pb \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s44100.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s44100.pb \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s44120.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s44120.pb \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s45000.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s45000.pb \
@@ -2260,6 +2624,8 @@ PRODUCT_COPY_FILES += \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s45405.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s45405.pb \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s45406.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s45406.pb \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s45407.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s45407.pb \
+    vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s45407imsi_3d_454078.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s45407imsi_3d_454078.pb \
+    vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s45407imsi_3d_454079.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s45407imsi_3d_454079.pb \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s45409.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s45409.pb \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s45410.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s45410.pb \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s45412.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s45412.pb \
@@ -2277,26 +2643,8 @@ PRODUCT_COPY_FILES += \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s45418gid1_3d_02020002ffffffff.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s45418gid1_3d_02020002ffffffff.pb \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s45418gid1_3d_02030001ffffffff.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s45418gid1_3d_02030001ffffffff.pb \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s45419.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s45419.pb \
-    vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s45420.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s45420.pb \
-    vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s45421.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s45421.pb \
-    vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s45422.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s45422.pb \
-    vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s45423.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s45423.pb \
-    vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s45424.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s45424.pb \
-    vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s45425.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s45425.pb \
-    vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s45426.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s45426.pb \
-    vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s45427.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s45427.pb \
-    vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s45428.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s45428.pb \
-    vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s45429.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s45429.pb \
-    vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s45430.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s45430.pb \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s45431.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s45431.pb \
-    vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s45432.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s45432.pb \
-    vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s45433.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s45433.pb \
-    vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s45434.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s45434.pb \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s45435.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s45435.pb \
-    vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s45436.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s45436.pb \
-    vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s45437.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s45437.pb \
-    vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s45438.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s45438.pb \
-    vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s45439.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s45439.pb \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s45500.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s45500.pb \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s45501.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s45501.pb \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s45502.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s45502.pb \
@@ -2329,6 +2677,8 @@ PRODUCT_COPY_FILES += \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s46011.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s46011.pb \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s46012.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s46012.pb \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s46013.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s46013.pb \
+    vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s46015.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s46015.pb \
+    vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s46030.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s46030.pb \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s46601.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s46601.pb \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s46601imsi_3d_4660116090.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s46601imsi_3d_4660116090.pb \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s46601imsi_3d_4660116091.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s46601imsi_3d_4660116091.pb \
@@ -2380,10 +2730,12 @@ PRODUCT_COPY_FILES += \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s50511.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s50511.pb \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s50512.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s50512.pb \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s50538.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s50538.pb \
+    vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s50539.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s50539.pb \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s50571.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s50571.pb \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s50572.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s50572.pb \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s50588.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s50588.pb \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s50590.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s50590.pb \
+    vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s50599.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s50599.pb \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s51001.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s51001.pb \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s51008.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s51008.pb \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s51009.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s51009.pb \
@@ -2397,7 +2749,6 @@ PRODUCT_COPY_FILES += \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s51401.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s51401.pb \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s51402.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s51402.pb \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s51403.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s51403.pb \
-    vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s51501.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s51501.pb \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s51502.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s51502.pb \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s51503.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s51503.pb \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s51505.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s51505.pb \
@@ -2429,9 +2780,10 @@ PRODUCT_COPY_FILES += \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s53001.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s53001.pb \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s53001spn_3d_vodafone_20_nz.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s53001spn_3d_vodafone_20_nz.pb \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s53005.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s53005.pb \
-    vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s53005imsi_3d_53005204.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s53005imsi_3d_53005204.pb \
+    vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s53005spn_3d_skinny.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s53005spn_3d_skinny.pb \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s53024.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s53024.pb \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s53024spn_3d_warehouse.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s53024spn_3d_warehouse.pb \
+    vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s53099.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s53099.pb \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s53602.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s53602.pb \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s53701.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s53701.pb \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s53703.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s53703.pb \
@@ -2513,6 +2865,7 @@ PRODUCT_COPY_FILES += \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s61604.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s61604.pb \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s61605.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s61605.pb \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s61701.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s61701.pb \
+    vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s61710.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s61710.pb \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s61801.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s61801.pb \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s61802.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s61802.pb \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s61804.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s61804.pb \
@@ -2634,6 +2987,7 @@ PRODUCT_COPY_FILES += \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s65507.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s65507.pb \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s65507spn_3d_virgin.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s65507spn_3d_virgin.pb \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s65510.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s65510.pb \
+    vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s65512.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s65512.pb \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s65701.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s65701.pb \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s70267.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s70267.pb \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s70299.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s70299.pb \
@@ -2654,6 +3008,7 @@ PRODUCT_COPY_FILES += \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s70804.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s70804.pb \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s708040.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s708040.pb \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s71021.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s71021.pb \
+    vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s71030.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s71030.pb \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s710300.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s710300.pb \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s71073.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s71073.pb \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s710730.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s710730.pb \
@@ -2672,15 +3027,12 @@ PRODUCT_COPY_FILES += \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s71610.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s71610.pb \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s71615.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s71615.pb \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s71617.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s71617.pb \
+    vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s71685.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s71685.pb \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s72201.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s72201.pb \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s722010.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s722010.pb \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s722010gid1_3d_01.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s722010gid1_3d_01.pb \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s72201gid1_3d_02.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s72201gid1_3d_02.pb \
-    vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s72201spn_3d_celular.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s72201spn_3d_celular.pb \
-    vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s72201spn_3d_quam.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s72201spn_3d_quam.pb \
-    vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s72201spn_3d_tuenti.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s72201spn_3d_tuenti.pb \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s72207.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s72207.pb \
-    vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s722070.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s722070.pb \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s72231.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s72231.pb \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s722310.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s722310.pb \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s72234.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s72234.pb \
@@ -2699,9 +3051,12 @@ PRODUCT_COPY_FILES += \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s72415.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s72415.pb \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s72416.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s72416.pb \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s72417.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s72417.pb \
+    vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s72418.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s72418.pb \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s72419.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s72419.pb \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s72423.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s72423.pb \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s72424.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s72424.pb \
+    vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s72426.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s72426.pb \
+    vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s72429.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s72429.pb \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s72430.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s72430.pb \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s72431.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s72431.pb \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s72432.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s72432.pb \
@@ -2710,6 +3065,7 @@ PRODUCT_COPY_FILES += \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s72438.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s72438.pb \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s72439.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s72439.pb \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s72454.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s72454.pb \
+    vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s72477.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s72477.pb \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s73001.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s73001.pb \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s73002.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s73002.pb \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s73003.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s73003.pb \
@@ -2720,6 +3076,7 @@ PRODUCT_COPY_FILES += \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s73009.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s73009.pb \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s73010.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s73010.pb \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s73026.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s73026.pb \
+    vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s732001.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s732001.pb \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s732101.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s732101.pb \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s732103.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s732103.pb \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s732103spn_3d_etb_20_movi.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s732103spn_3d_etb_20_movi.pb \
@@ -2767,7 +3124,8 @@ PRODUCT_COPY_FILES += \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s90128.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s90128.pb \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s90137.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s90137.pb \
     vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s90143.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s90143.pb \
-    vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s90158.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s90158.pb
+    vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s90158.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s90158.pb \
+    vendor/motorola/xpeng/proprietary/product/etc/CarrierSettings/s999480.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s999480.pb
 
 PRODUCT_COPY_FILES += \
     vendor/motorola/xpeng/proprietary/product/etc/permissions/com.motorola.camera3.content.ai.xml:$(TARGET_COPY_OUT_PRODUCT)/etc/permissions/com.motorola.camera3.content.ai.xml \
